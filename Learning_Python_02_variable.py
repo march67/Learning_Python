@@ -4,7 +4,7 @@
 # pas besoin de déclarer le type de la variable
 # pas besoin de point virgule
 nom = "David"
-print("Bonjour " + nom) # combinaison d'une String brute et de l'utilsiation d'une variable
+print("Bonjour " + nom) # combinaison d'une String brute et de l'utilsation d'une variable
 
 print(type(nom)) # permet de vérifier le type de donnée et l'affiche à la console
 # <class 'str'>
